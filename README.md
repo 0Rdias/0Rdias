@@ -1,7 +1,7 @@
 ## Wassup, I am Raul Dias :)
 
 - 🔭 I’m currently not working
-- 🌱 I’m currently learning HTML e JAVA 
+- 🌱 I’m currently learning HTML and JAVA 
 - 📫 How to reach me: raul.ds.ds64nes@gmail.com
 - 😄 Pronouns: He/him
   
